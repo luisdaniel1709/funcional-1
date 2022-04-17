@@ -1,2 +1,1 @@
-Nekoht={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 1, 'zips': 100, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
-ValleSoft={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 1, 'zips': 100, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
+Edump2101={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 1, 'zips': 100, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
