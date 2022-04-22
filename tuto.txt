@@ -2,14 +2,14 @@
 ----------------------------------
 ⚙Soporte del bot:
 
-🌟 @Nekoht
+🌟 @Edump2101
 ----------------------------------
 🧾Comandos el bot
 
 /start       💥  /tutorial
 /myuser      💥  /account
 /host        💥  /repoid
-/uptype.     💥  /cloud
+/uptype      💥  /cloud
 /proxy       💥  /dir
 /files       💥  /zips
 /adduser     💥  /banuser
