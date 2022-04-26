@@ -1,1 +1,4 @@
 Edump2101={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 1, 'zips': 100, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
+JordanOficial={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 0, 'zips': 100, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
+User0075_69={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 0, 'zips': 100, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
+Usuario_17={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 3, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 0, 'zips': 400, 'uploadtype': 'draft', 'proxy': '', 'tokenize': 0}
